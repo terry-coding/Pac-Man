@@ -1,0 +1,38 @@
+{
+  "images" : [
+    {
+      "filename" : "A Pac-Man inspired app icon design, featuring a retro arcade style with vibrant colors, pixelated elements, and a playful, nostalgic theme..png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "A Pac-Man inspired app icon design, featuring a retro arcade style with vibrant colors, pixelated elements, and a playful, nostalgic theme. 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "tinted"
+        }
+      ],
+      "filename" : "A Pac-Man inspired app icon design, featuring a retro arcade style with vibrant colors, pixelated elements, and a playful, nostalgic theme. 2.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
